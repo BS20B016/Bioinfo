@@ -1,0 +1,8 @@
+nu = ("2","3","5","6","8","9","0")
+li = []
+while True:
+    for i in range(0,6):
+        for j in range(0,6):
+            for k in range(0,6):
+                for l in range(0,6):
+                    li(i)
